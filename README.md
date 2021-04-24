@@ -4,3 +4,4 @@
 
 Main.m includes MRMNCI for first phase, BOA for second phase and also the related codes for third phase.
 There is not the measurement criteria code in this folder.
+Some of the codes are in C++. You need to install Visual Studio as well.
